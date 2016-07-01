@@ -9,3 +9,14 @@ C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindows
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.csproj.GenerateResource.Cache
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.exe
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\bin\Debug\CmdStepsWindowsForms.exe.config
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\bin\Debug\CmdStepsWindowsForms.exe
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\bin\Debug\CmdStepsWindowsForms.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\bin\Debug\CmdStepsCore.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\bin\Debug\CmdStepsCore.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.Form1.resources
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.Properties.Resources.resources
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.exe
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.pdb

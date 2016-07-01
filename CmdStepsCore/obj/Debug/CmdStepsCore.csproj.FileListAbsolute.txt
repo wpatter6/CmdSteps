@@ -3,3 +3,8 @@ C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsCore\bi
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsCore\bin\Debug\CmdStepsCore.pdb
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsCore\obj\Debug\CmdStepsCore.dll
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsCore\obj\Debug\CmdStepsCore.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsCore\bin\Debug\CmdStepsCore.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsCore\bin\Debug\CmdStepsCore.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsCore\obj\Debug\CmdStepsCore.csprojResolveAssemblyReference.cache
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsCore\obj\Debug\CmdStepsCore.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsCore\obj\Debug\CmdStepsCore.pdb

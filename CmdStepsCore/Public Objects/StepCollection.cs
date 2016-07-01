@@ -42,7 +42,8 @@ namespace CmdStepsCore
                 {
                     StepList.Insert(StepList.IndexOf(obj), value);
                     StepList.Remove(obj);
-                } else
+                }
+                else
                 {
                     StepList.Add(value);
                 }
@@ -63,6 +64,9 @@ namespace CmdStepsCore
             }
         }
         public StepVariableCollection PopulatedVariables = new StepVariableCollection();
+        
+        public virtual event EventHandler<StepExecutionArgs> StepExecuting;
+        public virtual event EventHandler<StepExecutionArgs> StepExecuted;
 
         private List<Step> StepList;
 
@@ -74,7 +78,6 @@ namespace CmdStepsCore
                 return string.Format("{0}.{1}", Id, AppConstants.ListFileExtension);
             }
         }
-
 
         public StepCollection()
         {
@@ -110,11 +113,22 @@ namespace CmdStepsCore
         private void Item_StepExecuting(object sender, StepExecutionArgs e)
         {
             e.InputVariables = PopulatedVariables.ToDictionary();
+            OnStepExecuting(e);
         }
 
         private void Item_StepExecuted(object sender, StepExecutionArgs e)
         {
             PopulatedVariables.AddRange(((Step)sender).Variables);
+            OnStepExecuted(e);
+        }
+
+        protected void OnStepExecuting(StepExecutionArgs args)
+        {
+            StepExecuting?.Invoke(this, args);
+        }
+        protected void OnStepExecuted(StepExecutionArgs args)
+        {
+            StepExecuted?.Invoke(this, args);
         }
 
         public void Clear()

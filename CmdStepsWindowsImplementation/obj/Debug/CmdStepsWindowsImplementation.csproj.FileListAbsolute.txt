@@ -7,3 +7,12 @@ C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindows
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsImplementation.csprojResolveAssemblyReference.cache
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsSave.dll
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsSave.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\bin\Debug\CmdStepsWindowsSave.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\bin\Debug\CmdStepsWindowsSave.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\bin\Debug\CmdStepsCore.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\bin\Debug\CmdStepsCore.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsSave.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsSave.pdb

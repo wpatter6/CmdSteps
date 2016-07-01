@@ -10,3 +10,15 @@ C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\D
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\CmdStepsCore.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\CmdStepsWindowsSave.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\CmdStepsCore.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\CmdStepsWindowsSave.pdb
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Will Patterson\Documents\GitHub\CmdSteps\UnitTests\obj\Debug\UnitTests.pdb

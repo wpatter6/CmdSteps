@@ -39,14 +39,14 @@
   <ItemGroup>
     <Compile Include="Internal Objects\AppConstants.cs" />
     <Compile Include="Public Interfaces\IStepExecutor.cs" />
-    <Compile Include="Internal Objects\StepCollection.cs" />
+    <Compile Include="Public Objects\StepCollection.cs" />
     <Compile Include="Public Interfaces\IObjectSerializer.cs" />
-    <Compile Include="Internal Objects\Step.cs" />
+    <Compile Include="Public Objects\Step.cs" />
     <Compile Include="Internal Objects\CommandStep.cs" />
-    <Compile Include="Internal Objects\StepVariable.cs" />
+    <Compile Include="Public Objects\StepVariable.cs" />
     <Compile Include="Public Interfaces\IStepsSaver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Internal Objects\RequestStepExecutor.cs" />
+    <Compile Include="Public Objects\RequestStepExecutor.cs" />
     <Compile Include="StepVariableCollection.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
