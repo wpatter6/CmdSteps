@@ -1,0 +1,12 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\CmdStepsCore.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\CmdStepsWindowsSave.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\CmdStepsCore.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\CmdStepsWindowsSave.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,11 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\bin\Debug\CmdStepsWindowsForms.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\bin\Debug\CmdStepsWindowsForms.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\bin\Debug\CmdStepsWindowsForms.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\bin\Debug\CmdStepsCore.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\bin\Debug\CmdStepsCore.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsForms\obj\Debug\CmdStepsWindowsForms.pdb

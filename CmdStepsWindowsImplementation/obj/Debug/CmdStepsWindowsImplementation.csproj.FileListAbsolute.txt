@@ -1,0 +1,9 @@
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\bin\Debug\CmdStepsWindowsSave.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\bin\Debug\CmdStepsWindowsSave.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\bin\Debug\CmdStepsCore.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\bin\Debug\CmdStepsCore.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsSave.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\CmdStepsCore\CmdStepsWindowsImplementation\obj\Debug\CmdStepsWindowsSave.pdb
